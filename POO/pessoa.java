@@ -1,12 +1,12 @@
-package POO;
+package poo;
 
-public class PESSOA {
+public class pessoa {
     private String PrimeiroNome;
     private String UltimoNome;
     private String NumeroCpf;
     
     // Correção do construtor
-    public PESSOA(String Primeiro, String Ultimo) {
+    public pessoa(String Primeiro, String Ultimo) {
         PrimeiroNome = Primeiro;
         UltimoNome = Ultimo;
     }
