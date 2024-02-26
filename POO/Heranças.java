@@ -1,5 +1,5 @@
-package POO;
+package poo;
 
-public class Heranças {
+public class HeranÃ§as {
 
 }
